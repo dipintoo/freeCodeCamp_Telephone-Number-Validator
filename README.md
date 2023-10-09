@@ -4,7 +4,7 @@
 
 ## Bagaimana Validasi Nomor Telepon Bekerja
 
-Kamu akan membuat sebuah fungsi yang akan mengambil sebuah string dan memeriksa apakah string tersebut memiliki format nomor telepon yang valid sesuai dengan standar Amerika Serikat. Kode area (555) wajib ada dan Jika kode negara ada, maka harus memastikan bahwa kode negara adalah 1.  
+Kamu akan membuat sebuah fungsi yang akan mengambil sebuah string dan memeriksa apakah string tersebut memiliki format nomor telepon yang valid sesuai dengan standar Amerika Serikat. Kode area (555) wajib ada dan jika kode negara ada, maka harus memastikan bahwa kode negara adalah 1.  
 
 ## Contoh
 
