@@ -4,7 +4,11 @@
 
 ## Bagaimana Validasi Nomor Telepon Bekerja
 
-Kamu akan membuat sebuah fungsi yang akan mengambil sebuah string dan memeriksa apakah string tersebut memiliki format nomor telepon yang valid sesuai dengan standar Amerika Serikat. Beberapa contoh format yang valid termasuk:
+Kamu akan membuat sebuah fungsi yang akan mengambil sebuah string dan memeriksa apakah string tersebut memiliki format nomor telepon yang valid sesuai dengan standar Amerika Serikat. Kode area (555) wajib ada dan Jika kode negara ada, maka harus memastikan bahwa kode negara adalah 1.  
+
+## Contoh
+
+Contoh format yang valid dan akan memberikan output bernilai `true`:
 
 - 555-555-5555
 - (555)555-5555
@@ -13,12 +17,7 @@ Kamu akan membuat sebuah fungsi yang akan mengambil sebuah string dan memeriksa 
 - 5555555555
 - 1 555 555 5555
 
-Namun, ada beberapa aturan yang harus diikuti:
-
-- Kode area wajib ada (555).
-- Jika kode negara ada, maka harus memastikan bahwa kode negara adalah 1.
-
-Output akan bernilai `true` jika string tersebut adalah nomor telepon AS yang valid, jika tidak output bernilai `false`.
+selain format diatas akan memberikan output bernilai `false`:
 
 ## Coding dan Testing
 
