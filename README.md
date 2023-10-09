@@ -8,7 +8,7 @@ Kamu akan membuat sebuah fungsi yang akan mengambil sebuah string dan memeriksa 
 
 ## Contoh
 
-Contoh format yang valid dan akan memberikan output bernilai `true`:
+Contoh format yang valid dan akan memberikan output bernilai `true`
 
 - 555-555-5555
 - (555)555-5555
@@ -17,7 +17,7 @@ Contoh format yang valid dan akan memberikan output bernilai `true`:
 - 5555555555
 - 1 555 555 5555
 
-selain format diatas akan memberikan output bernilai `false`:
+selain format diatas akan memberikan output bernilai `false`
 
 ## Coding dan Testing
 
