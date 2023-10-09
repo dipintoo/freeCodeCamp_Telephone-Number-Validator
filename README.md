@@ -15,8 +15,8 @@ Kamu akan membuat sebuah fungsi yang akan mengambil sebuah string dan memeriksa 
 
 Namun, ada beberapa aturan yang harus diikuti:
 
-- Kode area (area code) wajib ada.
-- Jika kode negara (country code) ada, maka harus memastikan bahwa kode negara adalah 1.
+- Kode area wajib ada (555).
+- Jika kode negara ada, maka harus memastikan bahwa kode negara adalah 1.
 
 Output akan bernilai `true` jika string tersebut adalah nomor telepon AS yang valid, jika tidak output bernilai `false`.
 
