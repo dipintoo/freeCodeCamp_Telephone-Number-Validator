@@ -18,6 +18,8 @@ Namun, ada beberapa aturan yang harus diikuti:
 - Kode area (area code) wajib ada.
 - Jika kode negara (country code) ada, maka harus memastikan bahwa kode negara adalah 1.
 
+Output akan bernilai `true` jika string tersebut adalah nomor telepon AS yang valid, jika tidak output bernilai `false`.
+
 ## Coding dan Testing
 
 Kamu bisa ngoding dan melakukan testing langsung di [Telephone Number Validator project build](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator).  
