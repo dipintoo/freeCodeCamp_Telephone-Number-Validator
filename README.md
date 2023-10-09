@@ -15,6 +15,8 @@ Contoh format yang valid dan akan memberikan output bernilai `true`
 - (555) 555-5555
 - 555 555 5555
 - 5555555555
+- 1(555)555-5555
+- 1 (555) 555-5555
 - 1 555 555 5555
 - 1 456 789 4444
 
