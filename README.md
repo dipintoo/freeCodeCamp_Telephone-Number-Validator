@@ -30,4 +30,4 @@ Kamu bisa ngoding dan melakukan testing langsung di [Telephone Number Validator 
 Semangat dan selamat mencoba! 🚀📜  
 
 
-[***Next Project - [5/5] Cash Register >>***]()
+[***Next Project - [5/5] Cash Register >>***](https://github.com/dipintoo/freeCodeCamp_Cash-Register)
